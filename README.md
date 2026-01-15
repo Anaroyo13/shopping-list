@@ -1,4 +1,7 @@
 ## Shopping list
-"-" Bacon
-"-" Eggs
-"-" Xbox
+
+- Bacon
+
+- Eggs
+
+- Xbox
