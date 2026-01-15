@@ -1,7 +1,7 @@
 ## Shopping list
 
- - Bacon
+ + Bacon
 
- - Eggs
+ + Eggs
 
- - Xbox
+ + Xbox
